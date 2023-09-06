@@ -40,7 +40,7 @@ sh run_eval.sh
 
 ## Citation:
 ```
-@article{cao2022cmgan,
+@article{zhao2023d2former,
   title={D2{F}ormer: A Fully Complex Dual-Path Dual-Decoder Conformer Network using Joint Complex Masking and Complex Spectral Mapping for Monaural Speech Enhancement},
   author={Shengkui Zhao and Bin Ma},
   journal={arXiv:2302.11832},
