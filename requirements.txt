@@ -1,0 +1,12 @@
+einops==0.3.2
+joblib==1.1.0
+matplotlib==3.3.4
+natsort==8.0.0
+numpy==1.19.5
+pesq==0.0.3
+scipy==1.5.4
+SoundFile==0.10.3.post1
+torch==1.8.2
+torchaudio==0.8.2
+torchinfo==1.5.3
+rotary_embedding_torch
