@@ -1,4 +1,4 @@
-test_dir='/mnt/nas_sg/mit_sg/shengkui.zhao/DEMAND_SE_data/data/16kHz/test'
+test_dir='DEMAND_SE_data/data/16kHz/test'
 model_dir=ckpt
 save_dir=saved_tracks_best
 
